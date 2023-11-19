@@ -1,3 +1,5 @@
+[![HitCount](https://hits.dwyl.com/TaChan1337/TaChan1337.svg?style=flat-square)](http://hits.dwyl.com/TaChan1337/TaChan1337)
+
 - 👋 Hi, I’m @TaChan1337
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning more Rust
